@@ -5,7 +5,7 @@ Potato
 
 If you fork this you can say that you forked a potato.
 
-![potato](http://i.imgur.com/dRnvRZZ.jpg)
+![potato_squint](https://user-images.githubusercontent.com/62864373/110212387-246f6480-7ec1-11eb-9c2a-79c5a5000019.gif)
 
 Forking potatoes is an ancient and well-mannered tradition.
 
